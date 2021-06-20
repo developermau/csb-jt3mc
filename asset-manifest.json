@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://developermau.github.io/csb-jt3mc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://developermau.github.io/csb-jt3mc/static/js/main.274315c5.chunk.js",
+    "main.js.map": "https://developermau.github.io/csb-jt3mc/static/js/main.274315c5.chunk.js.map",
+    "runtime-main.js": "https://developermau.github.io/csb-jt3mc/static/js/runtime-main.3b28b657.js",
+    "runtime-main.js.map": "https://developermau.github.io/csb-jt3mc/static/js/runtime-main.3b28b657.js.map",
+    "static/js/2.346f8794.chunk.js": "https://developermau.github.io/csb-jt3mc/static/js/2.346f8794.chunk.js",
+    "static/js/2.346f8794.chunk.js.map": "https://developermau.github.io/csb-jt3mc/static/js/2.346f8794.chunk.js.map",
+    "index.html": "https://developermau.github.io/csb-jt3mc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://developermau.github.io/csb-jt3mc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.346f8794.chunk.js.LICENSE.txt": "https://developermau.github.io/csb-jt3mc/static/js/2.346f8794.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b28b657.js",
+    "static/js/2.346f8794.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.274315c5.chunk.js"
+  ]
+}
